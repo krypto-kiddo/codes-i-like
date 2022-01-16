@@ -1,13 +1,13 @@
 // I do not own this code. 
 
-// Source: 
-// source code of the test contract of DAI (an ERC20 token)
+// Source: https://ropsten.etherscan.io/address/0xad6d458402f60fd3bd25163575031acdce07538d#code
+// source code of the test contract of DAI (an ERC20 token) on the Ropsten test network i guess. 
 // I just liked it so i've kept a personal copy here. 
 
 
 
 
-// CODE BEGINS BELOW //
+/// CODE BEGINS BELOW ///
 
 
 
