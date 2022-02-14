@@ -1,4 +1,4 @@
-// Open Zeppelin ERC20 Token Source code (Solidity)
+// Open Zeppelin ERC20 Token Source code (Solidity
 // Source: https://github.com/OpenZeppelin/openzeppelin-solidity/blob/9b3710465583284b8c4c5d2245749246bb2e0094/contracts/token/ERC20/ERC20.sol
 // Code starts below.
 
